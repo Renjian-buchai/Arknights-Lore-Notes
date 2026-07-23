@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "6b23ded8c55663a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f07dfde4d0669d61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "170ed6ad4cd031a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8159290e2795b443",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbe2df29cdf03467",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d107c807fcf750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "21d5a0ce19ae8a70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Catastrophe",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2c8594916373fee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b341d7cc16ed31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33548f48d743f80c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a21ba9db82c181bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "869bb0872161fe6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arknights Lore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Arknights Lore"
+            }
+          },
+          {
+            "id": "f91523d58b23ed32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arknights Lore.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Arknights Lore"
+            }
+          },
+          {
+            "id": "07c749f4740d922a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c541c3da55d2317",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a3f4bbd2fcccc534",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapters/Chapter 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 2"
+            }
+          },
+          {
+            "id": "3e8ccad6c6107612",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": true,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "170ed6ad4cd031a5",
+  "lastOpenFiles": [
+    "Chapters/Chapter 2.md",
+    "Chapters/Chapter 1.md",
+    "Acts/Act 0.md",
+    "Acts/Act 1.md",
+    "Lore Connections.canvas",
+    "Chapters/Chapter 0.md",
+    "Arknights Lore.md",
+    "Untitled.base",
+    "templates/Untitled.md",
+    "templates",
+    "2026-07-20.md",
+    "Arknights Lore",
+    "Chapters/Chapter 4.md",
+    "Untitled.md",
+    "Chapters",
+    "Acts",
+    "Welcome.md"
+  ]
+}

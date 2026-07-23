@@ -1,0 +1,7 @@
+{
+  "snapToObjects": true,
+  "snapToGrid": true,
+  "newFileLocation": "root",
+  "defaultWheelBehavior": "zoom",
+  "cardLabelVisibility": "hover"
+}

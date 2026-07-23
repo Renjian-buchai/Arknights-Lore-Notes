@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1784541539524,
+      "title": "Chapter Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "-\"Lore Connections.canvas\"",
+        "showTags": false,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:Chapters  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:Acts  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.4375,
+        "repelStrength": 9.89583333333333,
+        "linkStrength": 0.526041666666667,
+        "linkDistance": 277,
+        "scale": 0.7069023997743942,
+        "close": false
+      }
+    }
+  ]
+}
