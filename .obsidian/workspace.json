@@ -11,10 +11,24 @@
             "id": "170ed6ad4cd031a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/Chapter 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1"
             }
           }
         ]
@@ -198,13 +212,13 @@
   },
   "active": "170ed6ad4cd031a5",
   "lastOpenFiles": [
-    "Chapters/Chapter 2.md",
-    "Chapters/Chapter 1.md",
-    "Acts/Act 0.md",
-    "Acts/Act 1.md",
-    "Lore Connections.canvas",
-    "Chapters/Chapter 0.md",
     "Arknights Lore.md",
+    "Lore Connections.canvas",
+    "Acts/Act 0.md",
+    "Chapters/Chapter 2.md",
+    "Chapters/Chapter 0.md",
+    "Chapters/Chapter 1.md",
+    "Acts/Act 1.md",
     "Untitled.base",
     "templates/Untitled.md",
     "templates",
