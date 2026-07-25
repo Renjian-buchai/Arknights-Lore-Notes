@@ -4,17 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd1b8a32f17aed9",
+        "id": "9b9efb6e28e2808f",
         "type": "tabs",
         "children": [
           {
-            "id": "514b807b5f4fd0d3",
+            "id": "168b2b4ea5d50c75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/Chapter 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 3"
+            }
+          },
+          {
+            "id": "a802bf9123d2724b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arknights Lore.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arknights Lore"
+            }
+          },
+          {
+            "id": "f487e8774555e2b1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Catastrophe",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,24 +244,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e8ccad6c6107612",
+  "active": "168b2b4ea5d50c75",
   "lastOpenFiles": [
+    "Chapters/Chapter 2.md",
+    "Chapters/Chapter 3.md",
     "Chapters/Chapter 1.md",
     "Arknights Lore.md",
-    "Lore Connections.canvas",
-    "Acts/Act 0.md",
-    "Chapters/Chapter 2.md",
     "Chapters/Chapter 0.md",
-    "Acts/Act 1.md",
+    "Chapters/Darknights Memoir.md",
+    "Arcs/Reunion Arc.md",
+    "Arcs/Victoria Arc.md",
+    "Lore Connections.canvas",
+    "Arcs/Act 1.md",
+    "Chapters/Chapter 5.md",
+    "Chapters/Chapter 4.md",
+    "Assets",
+    "Untitled.md",
     "Untitled.base",
     "templates/Untitled.md",
     "templates",
     "2026-07-20.md",
     "Arknights Lore",
-    "Chapters/Chapter 4.md",
-    "Untitled.md",
     "Chapters",
-    "Acts",
+    "Arcs",
     "Welcome.md"
   ]
 }

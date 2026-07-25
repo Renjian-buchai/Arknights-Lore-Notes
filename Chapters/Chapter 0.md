@@ -1,3 +1,9 @@
+---
+tags:
+  - Main-Story
+  - Reunion-Arc
+---
+
 | Stage | Before                                                                                                                                                                                      | After                                                                                                                                                                                        |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0-1   | Reunion rioting, trying to find and kill civilians. Dobermann suggests dr. commands troops to save a civilian as a test of capability.                                                      | Dobermann approves dr.'s commanding ability. Civilian lady distrusts Amiya b/c she is infected. Medic convinces gd. to take ori'y medicine. Crownslayer observers RI and plans to fuck them. |

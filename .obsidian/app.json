@@ -1,4 +1,6 @@
 {
   "userIgnoreFilters": null,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Assets"
 }

@@ -1,3 +1,10 @@
+---
+tags:
+  - Main-Story
+  - Reunion-Arc
+---
+ 
+
 | Stage | Before                                                                                                                                                                       | After                                                                                                                                                                           |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-1   | Cat'phe is starting to form over Chernobog.                                                                                                                                  | RI comes across a black market clinic that has been raided by Reunion. Amiya expo dumps about ori'm arts and the severity of ori'y.                                             |

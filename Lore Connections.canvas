@@ -1,9 +1,4 @@
 {
-	"nodes":[
-		{"id":"5548b018bf4310fc","type":"file","file":"Acts/Act 0.md","x":-540,"y":-360,"width":400,"height":400},
-		{"id":"4ca6684884a32adf","x":-20,"y":-360,"width":400,"height":400,"type":"file","file":"Acts/Act 1.md"}
-	],
-	"edges":[
-		{"id":"4195f03ed8cc915a","fromNode":"5548b018bf4310fc","fromSide":"right","toNode":"4ca6684884a32adf","toSide":"left"}
-	]
+	"nodes":[],
+	"edges":[]
 }
