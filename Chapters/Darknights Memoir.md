@@ -1,6 +1,6 @@
 ---
 tags:
-  - Main-Story
+  - Side-Story
   - Reunion-Arc
   - The-Ark
 aliases:

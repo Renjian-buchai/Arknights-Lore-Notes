@@ -1,4 +1,25 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"3ea1e9dcca6d72ff","type":"file","file":"Chapters/Chapter 0.md","x":-440,"y":-340,"width":400,"height":240},
+		{"id":"f52b0668c022e312","type":"file","file":"Chapters/Chapter 1.md","x":20,"y":-340,"width":400,"height":240},
+		{"id":"f21286218d11f230","type":"file","file":"Chapters/Chapter 2.md","x":480,"y":-340,"width":400,"height":240},
+		{"id":"b0d9ca2228545d76","type":"file","file":"Chapters/Chapter 3.md","x":940,"y":-340,"width":400,"height":240},
+		{"id":"819ff1dbe28c39f7","type":"file","file":"Chapters/Chapter 4.md","x":1400,"y":-340,"width":400,"height":240},
+		{"id":"53a8b49a247b179a","type":"file","file":"Chapters/Chapter 5.md","x":1860,"y":-340,"width":400,"height":240},
+		{"id":"7750b8070da9568a","type":"file","file":"Chapters/Chapter 6.md","x":2320,"y":-340,"width":400,"height":240},
+		{"id":"089448b1991a5a07","type":"file","file":"Chapters/Darknights Memoir.md","x":2600,"y":-40,"width":400,"height":240},
+		{"id":"899625e1de8f2d25","type":"file","file":"Chapters/Chapter 7.md","x":2900,"y":-340,"width":400,"height":240},
+		{"id":"95ea0987ec611ee7","x":3360,"y":-340,"width":400,"height":240,"type":"file","file":"Chapters/Chapter 8.md"}
+	],
+	"edges":[
+		{"id":"437682323883b05e","fromNode":"3ea1e9dcca6d72ff","fromSide":"right","toNode":"f52b0668c022e312","toSide":"left"},
+		{"id":"8ed37a66219c06ee","fromNode":"f52b0668c022e312","fromSide":"right","toNode":"f21286218d11f230","toSide":"left"},
+		{"id":"9b15dd63f167d1e4","fromNode":"f21286218d11f230","fromSide":"right","toNode":"b0d9ca2228545d76","toSide":"left"},
+		{"id":"d1c27e77d2bb5f9c","fromNode":"b0d9ca2228545d76","fromSide":"right","toNode":"819ff1dbe28c39f7","toSide":"left"},
+		{"id":"d029ac6f0433b210","fromNode":"819ff1dbe28c39f7","fromSide":"right","toNode":"53a8b49a247b179a","toSide":"left"},
+		{"id":"41fb52458d2e3225","fromNode":"53a8b49a247b179a","fromSide":"right","toNode":"7750b8070da9568a","toSide":"left"},
+		{"id":"ab3621be4cf7475b","fromNode":"7750b8070da9568a","fromSide":"right","toNode":"089448b1991a5a07","toSide":"top"},
+		{"id":"07367c8a8c2ca284","fromNode":"089448b1991a5a07","fromSide":"right","toNode":"899625e1de8f2d25","toSide":"bottom"},
+		{"id":"f66efcef9c15fc84","fromNode":"899625e1de8f2d25","fromSide":"right","toNode":"95ea0987ec611ee7","toSide":"left"}
+	]
 }
