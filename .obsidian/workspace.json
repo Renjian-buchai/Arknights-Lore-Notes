@@ -59,17 +59,24 @@
             "id": "a794e2554184c38d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lore Connections.canvas",
-                "viewState": {
-                  "x": 5645.759979582568,
-                  "y": 642.4555123626376,
-                  "zoom": -2.3333331298828126
+                "file": "Chapters/Chapter 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lore Connections"
+              "icon": "lucide-file",
+              "title": "Chapter 4"
             }
           },
           {
@@ -288,15 +295,15 @@
   },
   "active": "a794e2554184c38d",
   "lastOpenFiles": [
+    "Chapters/Chapter 3.md",
+    "Chapters/Chapter 4.md",
+    "Lore Connections.canvas",
     "Chapters/Chapter 8.md",
     "Chapters/Chapter 5.md",
     "Arknights Lore.md",
     "Chapters/Darknights Memoir.md",
     "Chapters/Chapter 7.md",
     "Chapters/Chapter 6.md",
-    "Chapters/Chapter 4.md",
-    "Chapters/Chapter 3.md",
-    "Lore Connections.canvas",
     "Arcs/Reunion Arc.md",
     "Chapters/Chapter 2.md",
     "Chapters/Chapter 1.md",
