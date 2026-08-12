@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#Glimpse-of-the-Depths  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -28,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.4375,
-  "repelStrength": 9.89583333333333,
-  "linkStrength": 0.526041666666667,
-  "linkDistance": 277,
-  "scale": 0.7069023997743942,
+  "centerStrength": 0.458333333333333,
+  "repelStrength": 18.6458333333333,
+  "linkStrength": 1,
+  "linkDistance": 245,
+  "scale": 0.27268604797210416,
   "close": false
 }
