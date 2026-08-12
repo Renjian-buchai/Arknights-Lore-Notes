@@ -45,24 +45,17 @@
             "id": "f487e8774555e2b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chapters/Grani and the Knights' Treasure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Lore Connections.canvas",
+                "viewState": {
+                  "x": -17.839906726722347,
+                  "y": 923.326507918915,
+                  "zoom": -1.7777779134114586
                 }
               },
-              "icon": "lucide-file",
-              "title": "Grani and the Knights' Treasure"
+              "icon": "lucide-layout-dashboard",
+              "title": "Lore Connections"
             }
           }
         ],
@@ -245,16 +238,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e8ccad6c6107612",
+  "active": "f487e8774555e2b1",
   "lastOpenFiles": [
-    "Chapters/Chapter 4.md",
+    "README.md.md",
     "Chapters/Grani and the Knights' Treasure.md",
+    "Chapters/Chapter 4.md",
     "Chapters/Darknights Memoir.md",
     "Chapters/Chapter 8.md",
     "Chapters/Chapter 5.md",
     "Chapters/Chapter 3.md",
     "Lore Connections.canvas",
-    "Arknights Lore.md",
     "Chapters/Chapter 7.md",
     "Chapters/Chapter 6.md",
     "Arcs/Reunion Arc.md",

@@ -9,7 +9,8 @@
 		{"id":"7750b8070da9568a","type":"file","file":"Chapters/Chapter 6.md","x":2320,"y":-340,"width":400,"height":240},
 		{"id":"089448b1991a5a07","type":"file","file":"Chapters/Darknights Memoir.md","x":2600,"y":-40,"width":400,"height":240},
 		{"id":"899625e1de8f2d25","type":"file","file":"Chapters/Chapter 7.md","x":2900,"y":-340,"width":400,"height":240},
-		{"id":"95ea0987ec611ee7","x":3360,"y":-340,"width":400,"height":240,"type":"file","file":"Chapters/Chapter 8.md"}
+		{"id":"95ea0987ec611ee7","type":"file","file":"Chapters/Chapter 8.md","x":3360,"y":-340,"width":400,"height":240},
+		{"id":"007415a504cdacb6","x":-440,"y":260,"width":400,"height":240,"type":"file","file":"Chapters/Grani and the Knights' Treasure.md"}
 	],
 	"edges":[
 		{"id":"437682323883b05e","fromNode":"3ea1e9dcca6d72ff","fromSide":"right","toNode":"f52b0668c022e312","toSide":"left"},
