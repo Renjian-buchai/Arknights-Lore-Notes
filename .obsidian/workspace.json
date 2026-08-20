@@ -8,41 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f64fee0c9ad85b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 4"
-            }
-          },
-          {
             "id": "a802bf9123d2724b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Lore Connections.canvas",
+                "viewState": {
+                  "x": 1660,
+                  "y": 80,
+                  "zoom": -1.8562645225385503
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Lore Connections"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,7 +80,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -223,14 +210,14 @@
   },
   "active": "a802bf9123d2724b",
   "lastOpenFiles": [
+    "Chapters/Grani and the Knights' Treasure.md",
+    "Chapters/Chapter 4.md",
     "README.md",
     "Lore Connections.canvas",
     "Chapters/Darknights Memoir.md",
-    "Chapters/Grani and the Knights' Treasure.md",
     "Arcs/Glimpse of the Depths.md",
     "Arcs/Victoria Arc.md",
     "Arcs/Reunion Arc.md",
-    "Chapters/Chapter 4.md",
     "Chapters/Chapter 8.md",
     "Chapters/Chapter 5.md",
     "Chapters/Chapter 3.md",
